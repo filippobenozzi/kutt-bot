@@ -1,5 +1,5 @@
 
-const BASE_URL = 'https://kutt.it/api/url/'
+const BASE_URL = 'https://kutt.it/api/v2/links/'
 
 const api = {
     postUrl: (apikey, target) => {
